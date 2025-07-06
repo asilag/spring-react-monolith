@@ -29,3 +29,9 @@ This project serves as a foundational template for developing robust application
 - **Role-Based Security**: Implements a robust security model where each user role is associated with specific URLs, ensuring controlled access to resources.
 - **GraphQL Communication**: Facilitates seamless interaction between the frontend and backend, allowing for efficient data retrieval and manipulation.
 - **JDBC Repository**: Simplifies database interactions by providing a higher-level abstraction.
+
+---
+
+## License
+
+[Apache License](https://www.apache.org/licenses/LICENSE-2.0)
