@@ -27,9 +27,14 @@ This project serves as a foundational template for developing applications using
 ## Key Features
 
 - **Role-Based Security**
+- **Each Role has own React modules**
 - **GraphQL Communication**
 - **JDBC Repository**
 - **Frontend Maven Plugin**
+
+---
+
+![ERD Diagram](Auth_ERD.png)
 
 ---
 
